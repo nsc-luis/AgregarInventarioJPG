@@ -1,0 +1,8 @@
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\bin\Release\AgregarInventarioJPG.exe
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\bin\Release\AgregarInventarioJPG.pdb
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\bin\Release\MySql.Data.dll
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\obj\x86\Release\AgregarInventarioJPG.frmInfoComputadora.resources
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\obj\x86\Release\AgregarInventarioJPG.csproj.GenerateResource.Cache
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\obj\x86\Release\AgregarInventarioJPG.exe
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\obj\x86\Release\AgregarInventarioJPG.pdb
+C:\Users\Propietario\Google Drive\Desarrollos\VS2015\AgregarInventarioJPG\obj\x86\Release\AgregarInventarioJPG.frmSelCte.resources
